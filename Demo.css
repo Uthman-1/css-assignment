@@ -1,0 +1,11 @@
+h1{
+    color: red;
+}
+
+ul{
+    border: 6px solid yellow;
+}
+li{
+    background-color: aqua;
+    border-bottom: 1px solid white;
+}

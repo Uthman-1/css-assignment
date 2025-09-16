@@ -1,0 +1,18 @@
+table{
+    width: 400px;
+    border-collapse: collapse;
+    
+}
+td{
+    padding: 10px 10px;
+    border-bottom: 1px solid   wheat;
+    
+}
+thead{
+    background-color: green;
+    color: white;
+}
+tr:hover{
+    background-color: grey;
+}
+

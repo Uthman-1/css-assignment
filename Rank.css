@@ -1,0 +1,21 @@
+table{
+    width: 400px;
+    border-collapse: collapse;
+    border-bottom: 2px solid green;
+}
+td{
+    padding: 10px 10px;
+    border-bottom: 1px solid   wheat;
+    
+}
+thead{
+    background-color: green;
+    color: white;
+}
+tr:hover{
+    background-color: whitesmoke;
+}
+
+tbody tr:hover{
+    color: green;
+}
