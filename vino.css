@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: white;
+      color: white;
+}
+.HOME{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 40px;
+    background-color: darkslateblue;
+}
+body{
+    font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+}
