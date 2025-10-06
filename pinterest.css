@@ -1,0 +1,53 @@
+h2{
+    text-align: center;
+    color: blue;
+}
+h3{
+    text-align: center;
+}
+.location{
+    text-align: center;
+}
+/* .ffs{
+    text-align: center;
+    /* justify-content: space-between;
+    display: flex;
+    } */
+/* 
+.no {
+    text-align: center;
+}
+.fol{
+    text-align: center;
+} */
+.pp{
+ text-align: center;   
+}
+.nn{
+    text-align: center;
+}
+.bb{
+    text-align: center;
+}
+.art{
+    text-align: center;
+}
+.ffs{
+    justify-content: space-between;
+    margin: auto;
+    display: inline-flex;
+    text-align: center;
+}
+.profile-img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.profile-card{
+    margin-top: 30px;
+  background: #fff;
+  border-radius: 14px;
+  padding: 80px 30px 30px;
+  text-align: center;
+  position: relative;
+}
